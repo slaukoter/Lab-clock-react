@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: green;
+  font-family: system-ui, sans-serif;
+}
+
+.clock {
+  background-color: beige;
+  border-radius: 20px;
+  padding: 2rem 3rem;
+  text-align: center;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.2);
+}
+
+h1 {
+  color:Green;
+  margin-bottom: 1rem;
+  font-size: 1.8rem;
+}
+
+.time {
+  font-size: 2rem;
+  color: black;
+  font-weight: bold;
+}
